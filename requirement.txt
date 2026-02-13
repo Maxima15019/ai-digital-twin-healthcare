@@ -1,6 +1,7 @@
 streamlit
 pandas
-scikit-learn==1.3.2
-joblib==1.3.2
-reportlab
+numpy
+joblib
+scikit-learn
 matplotlib
+reportlab
